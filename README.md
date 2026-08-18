@@ -32,6 +32,14 @@ An end-to-end data analytics project evaluated on global chocolate sales perform
 * **Average Check Consistency:** Stable average check (~$25.3–$25.7) across all sales channels (Airport, Mall, Online, Retail) and months.
 * **Top Performers:** Australia leads total revenue and monthly order stability, while Toronto leads overall city profit.
 * **Category Demand:** **Praline** and **White Chocolate** dominate consumer preference across major metropolitan markets (Berlin, London, New York, Paris, Sydney, Toronto).
+* ![Overall Sales Dashboard](<img width="1123" height="755" alt="Screenshot from 2026-08-18 17-26-45" src="https://github.com/user-attachments/assets/9fb6e3fd-107a-4201-b257-ebc2c0c7724a" />
+)
+![Sales Dynamics](<img width="1123" height="727" alt="Screenshot from 2026-08-18 17-27-12" src="https://github.com/user-attachments/assets/0cde7e20-4870-431c-8c50-ecfb19ed011f" />
+)
+![Australia Performance](<img width="1390" height="542" alt="Screenshot from 2026-08-18 17-27-28" src="https://github.com/user-attachments/assets/fe89157d-b588-4e75-90de-235af42afaae" />
+)
+![Categories Heatmap](<img width="983" height="603" alt="Screenshot from 2026-08-18 17-27-52" src="https://github.com/user-attachments/assets/4e1217af-13ed-45d5-b527-560cf9bf308b" />
+)
 
 ---
 

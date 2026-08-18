@@ -26,6 +26,7 @@ An end-to-end data analytics project evaluated on global chocolate sales perform
 * **RFM Segmentation:** Evaluated Recency, Frequency, and Monetary metrics alongside demographic features (Gender, Age, Loyalty Membership, Location).
 * **Cohort Analysis:** Tracked customer acquisition layers over time to analyze lifecycle retention. 
 * 📊 **Tableau Interactive Dashboard:** [View Cohort Analysis Dashboard on Tableau Public](https://public.tableau.com/app/profile/mariia.korotnian/viz/Cohortanalysischocolate/Cohortanalysis)
+* 📊 **Dashboard of RFM analysis:** [https://public.tableau.com/app/profile/mariia.korotnian/viz/Chocolaterfmanalysis/Dashboard1?publish=yes]
 
 ### 3. Store & Geographical Dynamics
 * **Average Check Consistency:** Stable average check (~$25.3–$25.7) across all sales channels (Airport, Mall, Online, Retail) and months.
